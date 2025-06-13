@@ -1,5 +1,5 @@
 # Spelling-Bee-Game
-1. Run the program
+1. Download files and run the program
 2. Click "Open" to open a file
 3. Open the input.txt file from the Spelling Bee Game repository (you can upload your own text file if you have one)
 4. The game will start
