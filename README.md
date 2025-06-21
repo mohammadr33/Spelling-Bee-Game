@@ -1,7 +1,7 @@
 # Spelling-Bee-Game
 1. Download the Zip File
 2. Extract the files folder
-3. Open folder via code editor and run program
+3. Open the folder via the code editor and run the program
 4. Click "Open" to open a file
 5. Open the input.txt file from the Spelling Bee Game repository (you can upload your own text file if you have one)
 6. The game will start
